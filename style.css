@@ -121,6 +121,10 @@ header
     font-family: Arial;
     background-size: contain;
 }
+.interest img
+{
+    height: 30%;
+}
 .unorder
 {
     list-style-type: none;
