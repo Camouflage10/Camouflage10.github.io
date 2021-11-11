@@ -13,7 +13,7 @@ function clear(){
     ctx.fillRect(0,0,canvas.width,canvas.height);
 }
 function main(){
-    header.innerHTML="PICK YOUR GAME"
+    header.innerHTML="PICK YOUR GAME(unfinished)"
     clear()
     boxes=[]
      //graph
