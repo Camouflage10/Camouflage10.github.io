@@ -1,3 +1,7 @@
+.bolded 
+{ 
+    font-weight: bold; 
+}
 .navbar li
 {
     width: 12%;
